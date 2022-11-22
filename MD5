@@ -1,0 +1,13 @@
+06d08e5c558e9d4f3d64247403fdfb13 *DESCRIPTION
+7fda831c5fd117c2e2c552c6b4693ed2 *LICENSE
+7f288df2be7bc93f28aa8dac5b220966 *NAMESPACE
+5ef48ecc584d859132be44cd3c3ad013 *R/bs-icon.R
+7bb6280fca77ac8670d6549197dcf9ec *R/icons.R
+aea03e2f7fb12d122b46e00b225c5036 *README.md
+fa0aa6591dff878f83d4d3e4351e50c3 *man/bs_icon.Rd
+7165beeab611ed00d6391fddd6b47939 *tests/testthat.R
+039dead16a5d8e279a291484e0f1e873 *tests/testthat/_snaps/bsicon.md
+23bb5f9b5cf76d665fa9bcde5d48e324 *tests/testthat/_snaps/bsicon/main-icon-test.png
+9f0ec2e80868ca74009acedd53a850ff *tests/testthat/helper-skip.R
+9385fcee27246bd21f7b5f9e4746fb48 *tests/testthat/test-bsicon.R
+fc544bc79575284ee75e4a6e8e862242 *tools/update_icons.R
